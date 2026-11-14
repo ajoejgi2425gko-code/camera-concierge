@@ -1,0 +1,25 @@
+{
+  "name": "一眼レフ撮影コンシェルジュ｜ことパパのAIコンシェルジュ",
+  "short_name": "撮影コンシェルジュ",
+  "description": "撮影条件からカメラ設定をAIに相談する文章を作成",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f8f8",
+  "theme_color": "#287b89",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
